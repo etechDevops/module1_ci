@@ -18,3 +18,4 @@
 18. What command can you use to change the permission of a file
 19.how can i display the last 100 lines of a file
 20. how do you check the presence of a word in a file?
+21.How to bring back a script from the background 
